@@ -23,6 +23,7 @@
 
 
 # Write a SQL query to find employees who have the highest salary in each of the departments. For the above tables, Max has the highest salary in the IT department and Henry has the highest salary in the Sales department. 
+
 # +------------+----------+--------+
 # | Department | Employee | Salary |
 # +------------+----------+--------+
@@ -50,6 +51,8 @@ FROM (SELECT Department.Id AS DepartmentId, Department.Name AS Department, emp.S
       ON e.DepartmentId = d.DepartmentId and e.Salary = d.Salary*/
 
 
+
+
 # Write your MySQL query statement below
 SELECT Department.Name AS Department, Employee.Name AS Employee, Employee.Salary AS Salary
 FROM Department LEFT JOIN Employee ON Employee.DepartmentId = Department.Id
@@ -72,7 +75,7 @@ WHERE Employee.Salary IN (SELECT MAX(e.Salary) FROM Employee e WHERE e.Departmen
 
 # drop database EmployeeDepartment; 
 CREATE DATABASE EmployeeDepartment;
-use  EmployeeDepartment;
+USE EmployeeDepartment;
 
 
 CREATE TABLE Department(

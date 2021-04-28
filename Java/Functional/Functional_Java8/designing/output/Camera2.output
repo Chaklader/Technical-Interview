@@ -1,0 +1,4 @@
+with no filter: java.awt.Color[r=200,g=100,b=200]
+with brighter filter: java.awt.Color[r=255,g=142,b=255]
+with darker filter: java.awt.Color[r=140,g=70,b=140]
+with brighter & darker filter: java.awt.Color[r=200,g=100,b=200]

@@ -10,5 +10,8 @@ since 2016-09-16
 */
 
 
-SELECT 0 INTO @r;
-SELECT (@r:=@r+1) AS rank,votes FROM votes ORDER BY votes DESC;
+-- SELECT 0 INTO @r;
+-- SELECT (@r:=@r+1) AS rank,votes FROM votes ORDER BY votes DESC;
+
+
+SELECT name, votes, RANK() OVER (ORDER BY votes DESC) voting_rank FROM mydb.votes;

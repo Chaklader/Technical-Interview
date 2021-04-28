@@ -1,7 +1,8 @@
 # Time:  O(n^2)
 # Space: O(n)
 #
-# Write a SQL query to rank scores. If there is a tie between two scores, both should have the same ranking. Note that after a tie, the next ranking number should be the next consecutive integer value. In other words, there should be no "holes" between ranks.
+# Write a SQL query to rank scores. If there is a tie between two scores, both should have the same ranking. 
+# Note that after a tie, the next ranking number should be the next consecutive integer value. In other words, there should be no "holes" between ranks.
 #
 # +----+-------+
 # | Id | Score |
@@ -25,7 +26,8 @@
 #    | 3.65  | 3    |
 #    | 3.50  | 4    |
 #    +-------+------+
-#
+
+
 
 # Write your MySQL query statement below
 SELECT Ranks.Score, Ranks.Rank FROM Scores LEFT JOIN 
@@ -43,3 +45,10 @@ SELECT Ranks.Score, Ranks.Rank FROM Scores LEFT JOIN
  SELECT Score,  (SELECT COUNT(DISTINCT(Score)) FROM  Scores b WHERE b.Score > a.Score) + 1 AS Rank
        FROM Scores a
        ORDER by Score DESC
+
+
+
+
+
+
+

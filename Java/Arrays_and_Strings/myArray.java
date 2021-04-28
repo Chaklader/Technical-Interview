@@ -82,13 +82,26 @@ class QuestionA {
 
     public static void printLinkedListTree(BiNode root) {
 
-        for (BiNode node = root; node != null; node = node.node2) {
+        // for (BiNode node = root; node != null; node = node.node2) {
+
+        //     if (node.node2 != null && node.node2.node1 != node) {
+        //         System.out.print("inconsistent node: " + node);
+        //     }
+
+        //     System.out.print(node.data + "->");
+        // }
+
+        BiNode node = root;
+
+        while(node != null){
 
             if (node.node2 != null && node.node2.node1 != node) {
                 System.out.print("inconsistent node: " + node);
             }
 
             System.out.print(node.data + "->");
+
+            node = node.node2
         }
 
         System.out.println();
@@ -1059,6 +1072,50 @@ public class DeckOfCards {
 
 public class myArray {
 
+
+    // WalletHub 
+
+
+    // Q) Remove html tags in a string
+    // Sample Input: <h1>Hello World!</h1> <p>something</p>
+    // Output: Hello World! something
+    // My Solution:
+    public static String stripHtmlTags(String html){
+
+        html = html.replaceAll("<.*?>", " ");
+        html = html.replaceAll(" +", " ");
+
+        return html;
+    }
+
+    // Q) Given an integer input array A, you need to create an integer output array B of same size such that each entry at index i, is stated as
+    // B[i] = A[0]*A[1]*....A[i-1]*A[i+1]*A[i+2]*....
+    // So, it means we have to multiply all the numbers excluding the value at that index i.
+    // Sample Input: {3,1,6,4}
+    // Output: [24, 72, 12, 18]
+    // B[0] = 1*6*4, B[1] = 3*6*4, B[2] = 3*1*4, B[3] = 3*1*6
+
+    // /**
+    // * Assumptions: zero is not present in the numbers.
+    // * @param input int numbers
+    // * @return output int array
+    // */
+    public static int[] product(int[] input){
+        
+        int prod = 1;
+        int[] res = new int[input.length];
+
+        for(int ele:input) {
+            prod *= ele;
+        }
+
+        for(int ind=0; ind<res.length; ind++) {
+
+            res[ind] = prod/input[ind];
+        }
+
+        return res;
+    }
 
 
 
@@ -5714,6 +5771,7 @@ public class myArray {
 
         // Collections.sort(names, (String a, String b) -> a.compareTo(b)); 
         // Collections.sort(names, (a, b) -> a.compareTo(b));
+        // Collections.sort(names); 
 
         System.out.println(names);
         return names; 

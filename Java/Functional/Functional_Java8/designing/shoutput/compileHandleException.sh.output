@@ -1,0 +1,4 @@
+... unreported exception IOException; must be caught or declared to be thrown
+         .map(path -> new File(path).getCanonicalPath()) 
+                                                     ^
+1 error

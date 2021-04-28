@@ -1,0 +1,7 @@
+People older than 20: [Sara - 21, Jane - 21, Greg - 35]
+People older than 20: [Sara - 21, Jane - 21, Greg - 35]
+People older than 20: [Sara - 21, Jane - 21, Greg - 35]
+Grouped by age: {35=[Greg - 35], 20=[John - 20], 21=[Sara - 21, Jane - 21]}
+People grouped by age: {35=[Greg], 20=[John], 21=[Sara, Jane]}
+Oldest person of each letter:
+{S=Optional[Sara - 21], G=Optional[Greg - 35], J=Optional[Jane - 21]}

@@ -1,9 +1,10 @@
 # Time:  O(n^2)
 # Space: O(n)
-#
-# Given a Weather table, write a SQL query to find all dates' 
-# Ids with higher temperature compared to its previous (yesterday's) dates.
-# 
+
+# Given a Weather table, write a SQL query to find all dates
+# Ids with higher temperature compared to its previous (yesterday's) 
+# dates.
+
 # +---------+------------+------------------+
 # | Id(INT) | Date(DATE) | Temperature(INT) |
 # +---------+------------+------------------+
