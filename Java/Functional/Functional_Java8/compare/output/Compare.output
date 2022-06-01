@@ -1,0 +1,42 @@
+Sorted in ascending order by age: 
+John - 20
+Sara - 21
+Jane - 21
+Greg - 35
+Sorted in ascending order by age: 
+John - 20
+Sara - 21
+Jane - 21
+Greg - 35
+Sorted in descending order by age: 
+Greg - 35
+Sara - 21
+Jane - 21
+John - 20
+Sorted in ascending order by age: 
+John - 20
+Sara - 21
+Jane - 21
+Greg - 35
+Sorted in descending order by age: 
+Greg - 35
+Sara - 21
+Jane - 21
+John - 20
+Sorted in ascending order by name: 
+Greg - 35
+Jane - 21
+John - 20
+Sara - 21
+Youngest: John - 20
+Eldest: Greg - 35
+Sorted in ascending order by name: 
+Greg - 35
+Jane - 21
+John - 20
+Sara - 21
+Sorted in ascending order by age and name: 
+John - 20
+Jane - 21
+Sara - 21
+Greg - 35

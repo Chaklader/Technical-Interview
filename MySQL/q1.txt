@@ -1,0 +1,12 @@
+Input :
+	SELECT 0 INTO @r;
+	SELECT (@r:=@r+1) AS rank,votes FROM votes ORDER BY votes DESC;
+
+Output:
+	rank	votes
+	1	50
+	2	40
+	3	20
+	4	20
+	5	15
+	6	10

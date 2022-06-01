@@ -1,0 +1,1055 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "point_number": 1, 
+      "type": "Feature",
+      "properties": {
+        "bus_stop": 1,
+        "intersection": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36824643611908,
+          25.770619643812847
+        ]
+      }
+    },
+    {
+      "point_number": 2, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36816596984863,
+          25.76921867951949
+        ]
+      }
+    },
+    {
+      "point_number": 3, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36652445793152,
+          25.769252496093753
+        ]
+      }
+    },
+    {
+      "point_number": 4, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36649227142334,
+          25.76860514857028
+        ]
+      }
+    },
+    {
+      "point_number": 5, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36911010742188,
+          25.768503698265242
+        ]
+      }
+    },
+    {
+      "point_number": 6, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36893844604492,
+          25.766672746902884
+        ]
+      }
+    },
+    {
+      "point_number": 7, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36885261535645,
+          25.765754845089923
+        ]
+      }
+    },
+    {
+      "point_number": 8, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36878287792206,
+          25.764865922884734
+        ]
+      }
+    },
+    {
+      "point_number": 9, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36871314048767,
+          25.7641315908249
+        ]
+      }
+    },
+    {
+      "point_number": 10, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36865413188934,
+          25.76346972185246
+        ]
+      }
+    },
+    {
+      "point_number": 11, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36857634782791,
+          25.762612185396822
+        ]
+      }
+    },
+    {
+      "point_number": 12, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36850661039352,
+          25.76179812393185
+        ]
+      }
+    },
+    {
+      "point_number": 13, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36848247051239,
+          25.761382636403567
+        ]
+      }
+    },
+    {
+      "point_number": 14, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.368412733078,
+          25.75826160221006
+        ]
+      }
+    },
+    {
+      "point_number": 15, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3683429956436,
+          25.75586037920071
+        ]
+      }
+    },
+    {
+      "point_number": 16, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36827862262726,
+          25.754357778334377
+        ]
+      }
+    },
+    {
+      "point_number": 17, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36820888519287,
+          25.75316921241425
+        ]
+      }
+    },
+    {
+      "point_number": 18, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36902964115143,
+          25.75314988604084
+        ]
+      }
+    },
+    {
+      "point_number": 19, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36902964115143,
+          25.75282133721186
+        ]
+      }
+    },
+    {
+      "point_number": 20, 
+      "type": "Feature",
+      "properties": {
+        "bus_stop": 2,
+        "intersection": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36879897117615,
+          25.752831000425687
+        ]
+      }
+    },
+    {
+      "point_number": 21, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36852538585663,
+          25.752826168818885
+        ]
+      }
+    },
+    {
+      "point_number": 22, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36851465702057,
+          25.752715041807907
+        ]
+      }
+    },
+    {
+      "point_number": 23, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36910474300385,
+          25.752715041807907
+        ]
+      }
+    },
+    {
+      "point_number": 24, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3691154718399,
+          25.753154717634487
+        ]
+      }
+    },
+    {
+      "point_number": 25, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36973774433136,
+          25.753193370376565
+        ]
+      }
+    },
+    {
+      "point_number": 26, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37046194076538,
+          25.753633044432416
+        ]
+      }
+    },
+    {
+      "point_number": 27, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37009716033936,
+          25.754159684840378
+        ]
+      }
+    },
+    {
+      "point_number": 28, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36995768547058,
+          25.754314294424976
+        ]
+      }
+    },
+    {
+      "point_number": 29, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37003815174103,
+          25.75448339842767
+        ]
+      }
+    },
+    {
+      "point_number": 30, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36996304988861,
+          25.754942393792643
+        ]
+      }
+    },
+    {
+      "point_number": 31, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3698182106018,
+          25.755333746334326
+        ]
+      }
+    },
+    {
+      "point_number": 32, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36989063024521,
+          25.755698524394017
+        ]
+      }
+    },
+    {
+      "point_number": 33, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37009447813033,
+          25.756012570832628
+        ]
+      }
+    },
+    {
+      "point_number": 34, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37049412727356,
+          25.756215492705117
+        ]
+      }
+    },
+    {
+      "point_number": 35, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37072747945786,
+          25.75628071751904
+        ]
+      }
+    },
+    {
+      "point_number": 36, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37118881940842,
+          25.75647397601671
+        ]
+      }
+    },
+    {
+      "point_number": 37, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37207394838333,
+          25.755589815817938
+        ]
+      }
+    },
+    {
+      "point_number": 38, 
+      "type": "Feature",
+      "properties": {
+        "bus_stop": 3,
+        "intersection": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3718513250351,
+          25.755362735360205
+        ]
+      }
+    },
+    {
+      "point_number": 39, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37134170532227,
+          25.755901446803126
+        ]
+      }
+    },
+    {
+      "point_number": 40, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37081867456436,
+          25.756080211495306
+        ]
+      }
+    },
+    {
+      "point_number": 41, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37076234817505,
+          25.756345942297163
+        ]
+      }
+    },
+    {
+      "point_number": 42, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37117540836334,
+          25.756527122048425
+        ]
+      }
+    },
+    {
+      "point_number": 43, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37089914083481,
+          25.75716487257381
+        ]
+      }
+    },
+    {
+      "point_number": 44, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37080526351929,
+          25.757638351809117
+        ]
+      }
+    },
+    {
+      "point_number": 45, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37080258131027,
+          25.758041773953696
+        ]
+      }
+    },
+    {
+      "point_number": 46, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37091255187988,
+          25.75858772030224
+        ]
+      }
+    },
+    {
+      "point_number": 47, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3707167506218,
+          25.7589500726875
+        ]
+      }
+    },
+    {
+      "point_number": 48, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37041634321213,
+          25.759148158190627
+        ]
+      }
+    },
+    {
+      "point_number": 49, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37029296159744,
+          25.759278604561
+        ]
+      }
+    },
+    {
+      "point_number": 50, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37023663520812,
+          25.75941871346586
+        ]
+      }
+    },
+    {
+      "point_number": 51, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37002474069595,
+          25.759464611174618
+        ]
+      }
+    },
+    {
+      "point_number": 52, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37000060081482,
+          25.75966269581935
+        ]
+      }
+    },
+    {
+      "point_number": 53, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "no",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37020713090897,
+          25.75974965970536
+        ]
+      }
+    },
+    {
+      "point_number": 54, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37034928798676,
+          25.75964820183218
+        ]
+      }
+    },
+    {
+      "point_number": 55, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37088572978973,
+          25.759619213852478
+        ]
+      }
+    },
+    {
+      "point_number": 56, 
+      "type": "Feature",
+      "properties": {
+        "bus_stop": 4,
+        "intersection": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37087500095367,
+          25.760025044924113
+        ]
+      }
+    },
+    {
+      "point_number": 57, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37087500095367,
+          25.76045986239016
+        ]
+      }
+    },
+    {
+      "point_number": 58, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37231802940369,
+          25.760484018869374
+        ]
+      }
+    },
+    {
+      "point_number": 59, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3723931312561,
+          25.76107343543887
+        ]
+      }
+    },
+    {
+      "point_number": 60, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36833763122559,
+          25.76117006082683
+        ]
+      }
+    },
+    {
+      "point_number": 61, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36840736865997,
+          25.762174960200042
+        ]
+      }
+    },
+    {
+      "point_number": 62, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36847710609436,
+          25.76305424017426
+        ]
+      }
+    },
+    {
+      "point_number": 63, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36856830120087,
+          25.763943175945684
+        ]
+      }
+    },
+    {
+      "point_number": 64, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36863803863525,
+          25.764870754001677
+        ]
+      }
+    },
+    {
+      "point_number": 65, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36892771720885,
+          25.768518191171278
+        ]
+      }
+    },
+    {
+      "point_number": 66, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36661028861998,
+          25.76860997953504
+        ]
+      }
+    },
+    {
+      "point_number": 67, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36661565303802,
+          25.769165539169034
+        ]
+      }
+    },
+    {
+      "point_number": 68, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.368772149086,
+          25.7691365535133
+        ]
+      }
+    },
+    {
+      "point_number": 69, 
+      "type": "Feature",
+      "properties": {
+        "intersection": "yes",
+        "bus_stop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36889553070068,
+          25.770585827628135
+        ]
+      }
+    },
+    {
+      "point_number": 70, 
+      "type": "Feature",
+      "properties": {
+        "bus_stop": 1,
+        "intersection": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36824643611908,
+          25.770619643812847
+        ]
+      }
+    }
+  ]
+}

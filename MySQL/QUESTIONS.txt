@@ -1,0 +1,39 @@
+
+
+MySQL query to rank order a table of votes.  
+
+MySQL function to capitalize the first letter of a word in a string.  
+
+MySQL procedure to split a column into rows using a delimeter.  
+
+I have a table for bugs from a bug tracking software; let’s call the table “bugs”.
+The table has four columns (id, open_date, close_date, severity). On any given day
+a bug is open if the open_date is on or before that day and close_date is after
+that day. For example, a bug is open on “2012-01-01”, if it’s created on or
+before “2012-01-01” and closed on or after “2012-01-02”. I want an SQL to show
+the number of bugs open each day for a range of dates. Hint: There are bugs that were
+never closed.  
+
+
+
+
+Write a query to rank order the following table in MySQL by votes, display the rank as one of the columns.
+CREATE TABLE votes ( name CHAR(10), votes INT );
+INSERT INTO votes VALUES
+('Smith',10), ('Jones',15), ('White',20), ('Black',40), ('Green',50), ('Brown',20); 
+
+
+
+Write a procedure in MySQL to split a column into rows using a delimiter.
+CREATE TABLE sometbl ( ID INT, NAME VARCHAR(50) );
+INSERT INTO sometbl VALUES (1, 'Smith'), (2, 'Julio|Jones|Falcons'), (3, 'White|Snow'), (4, 'Paint|It|Red'), (5, 'Green|Lantern'), (6, 'Brown|bag');
+For (2), example rows would look like >> “3, white”, “3, Snow” …  
+
+
+I have a table for bugs from a bug tracking software; let’s call the table “bugs”. The table has four columns (id, open_date, close_date, severity). On any given day a bug is open if the open_date is on or before that day and close_date is after that day. For example, a bug is open on “2012-01-01”, if it’s created on or before “2012-01-01” and closed on or after “2012-01-02”. I want an SQL to show the number of bugs open each day for a range of dates. Hint: There are bugs that were never closed. 
+
+
+Write a MySQL function to capitalize the first letter of a word in a given string;
+Example: initcap(UNITED states Of AmERIca ) = United States Of America    
+
+

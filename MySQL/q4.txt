@@ -1,0 +1,11 @@
+Input :
+	SELECT b.open_date,count(b.id) AS totalbugs FROM bugs b WHERE b.open_date BETWEEN '01/01/2012' AND curdate()
+	GROUP BY b.open_date
+	ORDER BY b.open_date
+
+Output :
+	open_date	totalbugs
+	2012-01-01	1
+	2012-02-01	2
+	2012-04-01	1
+	2012-06-01	1

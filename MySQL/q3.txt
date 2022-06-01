@@ -1,0 +1,18 @@
+Input :
+	CALL expand_rows('|');
+
+Output :
+	id	value
+	1	Smith
+	2	Julio
+	2	Jones
+	2	Falcons
+	3	White
+	3	Snow
+	4	Paint
+	4	It
+	4	Red
+	5	Green
+	5	Lantern
+	6	Brown
+	6	bag

@@ -1,0 +1,5 @@
+Input :
+	initcap('UNITED states Of AmERIca')
+
+Output:
+	"United States Of America"

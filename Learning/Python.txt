@@ -1,0 +1,93 @@
+python: learning list
+—————————————————————
+
+Writing idiomatic python @ jeff knupp
+
+Pymotw <https://pymotw.com/3/index.html> 
+
+
+
+the python standard library by example <http://my.safaribooksonline.com/book/programming/python/9780132778633> 
+
+
+python course eu including scientific computing @ <http://www.python-course.eu>
+
+harrison kinsley python programming @ <https://pythonprogramming.net/>
+
+natural language processing nltk <http://www.nltk.org/book/>
+
+udemy @ aws machine learning: a complete guide with python <https://www.udemy.com/aws-
+
+machine-learning-a-complete-guide-with-python/>
+
+deep learning tutorial @ <http://deeplearning.net/tutorial/> 
+
+deep learning series @ udemy and lazy programmer inc. 
+
+quantopian @ financial engineering @ <https://www.quantopian.com/> 
+
+udemy @ aws machine learning: a complete guide with python 
+
+ai, deep learning and nlp <http://www.wildml.com/>  
+
+the python standard library <https://docs.python.org/3/library/> 
+
+learn python the hard way <https://learnpythonthehardway.org> 
+
+chris albon notes on data science, ml and ai <http://chrisalbon.com/> 
+
+python: programming efficiently - lynda 
+
+learning python web penetration testing - lynda 
+
+python generators - lynda 
+
+design patterns with python - lynda 
+
+python deisgn patterns <https://www.toptal.com/python/python-design-patterns> 
+
+alexander galea | scientific python and statistics  <https://galeascience.wordpress.com/> 
+
+test driven development (tdd) with python  <http://www.obeythetestinggoat.com/pages/book.html#toc> 
+
+python django tuts <http://www.marinamele.com/>  
+
+object oriented design (ood) <http://www.itmaybeahack.com/book/oodesign-python-2.1/html/>
+
+object oriented design (ood) <http://www.geeksforgeeks.org/object-oriented-programming-in-python-set-1-class-and-its-members/> 
+
+disassembling the python bytecode <http://www.goldsborough.me/python/low-level/2016/10/04/00-31-30-disassembling_python_bytecode/> 
+
+manash mandal blog ml, nlp, probability and statistics 
+<https://blog.manash.me/machine-learning-1-maximum-likelihood-estimation-part-1-9ad37d6ac425?gi=d17fdeedf85d>
+
+python internet code-i <http://pgbovine.net/cpython-internals.htm>
+
+python internet code-ii <https://github.com/amygdalama/python-internals>
+
+django tuts <https://www.codingforentrepreneurs.com/>
+
+flask tutorials miguel grinberg <https://blog.miguelgrinberg.com/>
+
+deep learning w/ adit deshpande <https://adeshpande3.github.io/adeshpande3.github.io/> 
+
+python design pattern series - derek banas/ youtube 
+
+
+
+
+————————————————————————————————————————————————————————————————————
+python series - derek banas/ youtube 
+
+learn to program 3: math strings exception handling
+
+learn to program 12 lambda map filter reduce
+
+learn to program 13 iterables : list comprehensions : generators
+
+learn to program 14 : python threads
+————————————————————————————————————————————————————————————————————
+
+multithreading in python - udemy 
+
+scrapy: powerful web scraping & crawling with python - udemy
