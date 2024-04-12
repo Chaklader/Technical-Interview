@@ -937,7 +937,7 @@ public class BinaryTree {
         p.leftChild = p.rightChild;
         p.rightChild = temp;
      
-        if(p.leftChild!=null){
+        if(p.leftChild != null){
             helper(p.leftChild);
         }
      
@@ -1895,7 +1895,6 @@ public class BinaryTree {
     /*solution - a, with "breadth first search"*/
     public static ArrayList<LinkedList<Node>> createLevelLinkedList(Node root) {
 
-
 		ArrayList<LinkedList<Node>> result = new ArrayList<LinkedList<Node>>();
 		
 		/* "Visit" the root */
@@ -1908,11 +1907,11 @@ public class BinaryTree {
 		while (current.size() > 0){
 
             /*
-                ALGORITHM
-                ---------
+				ALGORITHM
+				---------
 
-                i. add current nodes to the parent
-                ii create a new instance of current to adjoin the childs of the parent 
+				i. add current nodes to the parent
+				ii create a new instance of current to adjoin the childs of the parent 
             */
 
 			result.add(current); // Add previous level
@@ -1985,7 +1984,6 @@ public class BinaryTree {
 
             iv. continue the recursive process till where is no child
         */
-
 
 		if (root == null) {
             return;

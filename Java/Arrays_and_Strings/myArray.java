@@ -9930,7 +9930,6 @@ public class myArray {
     /*solution-b*/
 	public static String removeDups2 ( String s ) {
 
-
 	    StringBuilder noDupes = new StringBuilder();
 
 	    for (int i = 0; i < s.length(); i++) {
@@ -10421,7 +10420,6 @@ public class myArray {
 
 	/* method for checking anagram */
 	public static boolean permutation2(String s, String t){
-
 
 		if ( s.length() != t.length() ) {
 			return false;
